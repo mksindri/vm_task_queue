@@ -10,6 +10,7 @@ keywords:
 version: 3.1.0
 python_versions:
   - "1"
+  - "2"
 author: Mukesh Kumar.
 email: mukesh.kumar_5375@nihilent.com
 contributors:
