@@ -1,10 +1,10 @@
 ---
 name: action1
 pack: vm_task_queue
-runner_type: "python-script"
+runner_type: "local-shell-script"
 description: Action Process List!
 enabled: true
-entry_point: action1.py
+entry_point: act.sh
 parameters:
     greeting:
         type: string
