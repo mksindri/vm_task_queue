@@ -100,4 +100,5 @@ class Action1(Action):
         # async_vm_delete = compute_client.virtual_machines.delete(
         #     GROUP_NAME, VM_NAME)
         # async_vm_delete.wait()
-        return
+        delete = "fsdfsdfsdf "
+        return delete
