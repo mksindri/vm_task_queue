@@ -2,6 +2,6 @@
 name: action1
 pack: vm_task_queue
 description: "Greet StackStorm"
-action_ref: "vm_task_queue.greet"
+action_ref: "vm_task_queue.action1"
 formats:
   - "action1 {{greeting}}"
