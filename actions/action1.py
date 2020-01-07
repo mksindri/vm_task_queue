@@ -49,7 +49,7 @@ VM_REFERENCE = {
     }
 }
 
-class VmCreate(Action):
+class Action1(Action):
     def run(self):
 
         #----
